@@ -1,2 +1,2 @@
-# Udacity-Android
--- Android projects made during the Udacity Android Courses --
+# Android Apps
+-- Collection of Android Apps made by me --
